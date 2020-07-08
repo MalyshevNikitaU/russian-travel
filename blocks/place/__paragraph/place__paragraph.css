@@ -5,7 +5,9 @@
     font-size: 18px;
     line-height: 30px;
     color: #FFFFFF;
+    margin-top: 0;
     margin-bottom: 24px;
+    max-width: 484px;
 }
 
 @media screen and (max-width: 768px) {
@@ -15,9 +17,8 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 340px) {
     .place__paragraph {
-        margin-left: 16px;
         max-width: 288px;
     }
 }
