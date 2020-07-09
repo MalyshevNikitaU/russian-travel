@@ -8,6 +8,8 @@
     background-image: url(../../images/overlay.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
+    object-fit: cover;
 }
 
 @media screen and (max-width: 1024px) {
